@@ -8,5 +8,5 @@ See task in some categories and set filters to them
 In this code ,I used Codeigniter framework and Jquery,Jquery UI, bootstrap , datatable plugins .
 
 Demo in my site : http://ahad.pro/crm/demo
+
 Download source code : http://ahad.pro/crm/source.zip
-About me : http://ahad.pro/crm/resume.pdf
