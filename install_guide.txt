@@ -1,0 +1,4 @@
+1- make a database named "ensign"
+1- Restore ensign.sql in to mysql database which you made
+2- Copy all codeigniter source files in to a www directory
+3- Edit the application/config/database.php file to set the database config

@@ -1,0 +1,259 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 31, 2014, 5:34:09 PM
+    Author     : ahadyekta
+*/
+ul{
+    list-style: none;
+}
+ body{
+           
+            font-family:Arial, Helvetica, sans-serif;
+            font-weight:normal;
+            font-size: 13px;
+            direction: ltr;
+            
+        }
+        label {
+            font-weight:normal;
+        }
+   	.form-group {
+            padding: 5px 0;
+            overflow: hidden;
+        }
+   	.all_contet{
+   		direction:ltr;
+   	}
+   	.term_num,.other_major,.working_day{
+   		display:none;
+   	}
+	.form-control{
+		font-size:13px;
+	}
+	.rtl{
+		direction:ltr;
+	}
+	.ltr{
+		direction:ltr;
+	}
+	td, th {
+		padding: 2px;
+                text-align: center;
+		font-weight: normal;
+	}
+	
+	.hidden{
+		display: none;
+	}
+        .titr{
+            padding: 10px;
+            font-family: arial,serif;
+            
+        }
+        .top{
+            padding: 10px;
+        }
+        .dataTables_wrapper.no-footer {
+            padding: 10px;
+        }
+        table.dataTable tbody th, table.dataTable tbody td {
+          font-size: 13px;
+        }
+        table.dataTable thead th, table.dataTable tfoot th {
+            font-size: 12px;
+        }
+        .logo{
+            background: url(../s5_logo.png) no-repeat;
+            width: 450px;
+            height: 76px;
+            margin: 10px 10px 60px 70px;
+            float: left;
+        }
+        .wrapper {
+            padding: 0;
+            width: 794px;
+            margin: 0 auto;
+            border: solid 1px #ccc;
+            background: #ccc url(../back3.jpg);
+            min-height:1043px;
+        }
+        
+        .wrapper2{
+            padding: 34px 20px;
+        }
+        .text{
+            width: 100%;
+            height:120px !important;
+        }
+        .text1{
+            width: 100%;
+            height:180px !important;
+        }
+        iframe{
+            border:none;
+            height: 400px;
+            width:100%;
+        }
+        .status_table td{
+            text-align: right;
+            padding: 6px 10px;
+        }
+        .status_table td,.status_table td .label{
+            font-size: 12px;
+        }
+        .back-btn{
+            float:right;
+            margin: 0 10px;
+        }
+        .clear{
+            clear: both;
+        }
+        a.red{
+            color:red;
+        }
+        .top_left {
+            float: left;
+            margin-left: 60px;
+        }
+        .title_letter{
+            text-align:center;
+            margin-top: 20px
+        }
+        .table td{
+            font-weight:normal;
+            font-size: 13px;
+        }
+        .final_price{
+            font-size:17px;
+        }
+        p{
+        line-height: 1.5;
+        }
+        .top_button ul{
+            overflow:hidden;
+            float: right;
+        }
+        .top_button li {
+            float: right;
+            margin: 5px;
+        }
+        
+        .lefted{
+            width:40%;
+            float:left;
+        }
+        .righted{
+            width:40%;
+            float:right;
+        }
+        
+        .final_div{
+            float:left;
+            width:50%;
+            font-size: 14px;
+        }
+        .overal_div{
+            float:left;
+            width:50%;
+            margin-top: 20px;
+        }
+ 
+        .product_table .table > tbody > tr > td ,.final_div  .table > tbody > tr > td{
+            
+            padding: 2px !important;
+            text-align: right;
+            border: #000 solid 1px;
+        }
+        
+        .product_table .table{
+            border: solid 1px #000;
+        }
+        
+        .product_table th{
+            font-size: 14px;
+            text-align: center;
+            
+        }
+   
+        
+        .table > thead > tr > th {
+            padding: 5px;
+            font-size: 12px;
+        }
+        .top_text h4{
+            font-size: 14px;
+        }
+        .title_letter h3{
+            font-size: 16px;
+        }
+        .title_letter h4{
+            font-size: 14px;
+        }
+        .overal_div p {
+            font-size: 13px;
+        }
+        .bottom_text p{
+           font-size: 11px;  
+        }
+        .wrapper2 hr{
+            margin-top: 5px;
+        }
+       
+        .wrapper2 hr{
+            margin-bottom: 5px;
+        }
+@media print {
+    .wrapper {
+        border:none;
+    }
+}
+
+.red{
+    color:red;
+}
+.product_table .table > thead > tr > th , .num_row{
+border: 1px solid #000;
+background: #2e74b5;
+color: #fff;
+}
+
+#edit_status .modal-dialog{
+    width:900px !important;
+}
+.color_c{
+    color:#ccc !important;
+}
+.color_r{
+    color:red;
+}
+.menu_link li{
+   float:left;
+   margin: 0 5px;
+}
+.later{
+    text-align: center;
+    margin: 10px;
+}
+.div-pad{
+    padding: 10px;
+}
+.nav-tabs > li > a {
+    font-size: 14px;
+    color: #666666;
+}
+.main_label{
+    float:right;
+}
+.container-fluid{
+    direction: ltr;
+}
+.div-pad{
+    float: right;
+}
+.welcome{
+    float:right;margin: 5px;
+}
